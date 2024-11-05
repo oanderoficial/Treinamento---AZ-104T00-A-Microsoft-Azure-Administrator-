@@ -47,3 +47,43 @@
   * Remova os recursos e os grupos de recursos.
   * Aplique e controle os limites de recursos.
 
+<strong> Configurar recursos usando modelos do Azure Resource Manager </strong>
+  * Listar as vantagens dos modelos do Azure.
+  * Identificar componentes do esquema de modelo do Azure.
+  * Especificar parâmetros de modelo do Azure.
+  * Localizar e usar modelos de início rápido do Azure.
+
+<strong> Configurar redes virtuais </strong> 
+  * Descrever os recursos e componentes de uma rede virtual.
+  * Identificar os recursos e casos de uso das sub-redes e da divisão em sub-redes.
+  * Identificar casos de uso de endereços IP públicos e privados.
+  * Criar e determinar quais recursos exigem endereços IP públicos.
+  * Criar e determinar quais recursos exigem endereços IP privados.
+  * Criar redes virtuais.
+
+<strong> Configurar grupos de segurança de rede </strong> 
+  * Determinar quando usar os grupos de segurança de rede.
+  * Implementar regras do grupo de segurança de rede.
+  * Avaliar as regras efetivas do grupo de segurança de rede.
+
+<strong> Configurar Firewall do Azure </strong> 
+  * Determinar quando usar o Firewall do Azure.
+  * Implementar Firewall do Azure incluindo regras de firewall
+
+<strong> Configurar o DNS do Azure </strong> 
+  * Identificar recursos e casos de uso de domínios, domínios personalizados e zonas privadas.
+  * Verificar os nomes de domínio personalizados usando registros DNS.
+  * Implementar zonas DNS, delegação DNS e conjuntos de registros DNS.
+
+
+
+
+
+
+
+
+
+
+
+
+
