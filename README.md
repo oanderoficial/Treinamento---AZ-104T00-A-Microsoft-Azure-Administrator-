@@ -95,7 +95,7 @@
   * Implementar pontos de extremidade de serviço.
   * Identificar recursos e casos de uso para links privados e serviços de ponto de extremidade.
 
-<strong> Configurar o Azure Load Balancer /strong> 
+<strong> Configurar o Azure Load Balancer </strong> 
   * Identificar os recursos e os casos de uso do Azure Load Balancer.
   * Implementar balanceadores de carga do Azure públicos e internos.
   * Configurar SKUs, pools de back-end, persistência de sessão e investigações de integridade do balanceador de carga.
