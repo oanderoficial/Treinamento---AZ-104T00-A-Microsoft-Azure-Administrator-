@@ -148,6 +148,35 @@
   * Implementar conjuntos de dimensionamento de máquinas virtuais.
   * Dimensionar máquinas virtuais automaticamente.
 
+<strong> Configurar extensões de máquina virtual </strong> 
+  * Identificar recursos e casos de uso para extensões de máquina virtual.
+  * Identificar recursos e casos de uso para extensões de script personalizado.
+  * Identificar recursos e casos de uso da Desired State Configuration.
+
+<strong> Configurar planos de serviço de aplicativo </strong> 
+  * Identificar recursos e casos de uso do Serviço de Aplicativo do Azure.
+  * Selecionar um tipo de preço adequado do plano do Serviço de Aplicativo do Azure.
+  * Escalar o Plano do Serviço de Aplicativo.
+  * Escalar horizontalmente o Plano do Serviço de Aplicativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
