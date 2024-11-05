@@ -180,6 +180,15 @@
   * Implantar opções de segurança para o AKS.
   * Escalar o AKS, incluindo uma adição de Instâncias de Contêiner do Azure.
 
+<strong> Configurar backups de arquivos e pastas </strong> 
+  * Identificar recursos e casos de uso do Backup do Azure.
+  * Configurar opções de backup do cofre dos Serviços de Recuperação.
+  * Implantar o backup de arquivos e pastas locais.
+  * Configurar o Agente dos Serviços de Recuperação do Microsoft Azure.
+
+
+
+
 
 
 
