@@ -75,6 +75,22 @@
   * Verificar os nomes de domínio personalizados usando registros DNS.
   * Implementar zonas DNS, delegação DNS e conjuntos de registros DNS.
 
+<strong> Configure emparelhamento de rede virtual </strong>
+  * Identificar casos de uso e recursos de produto de emparelhamento de rede virtual.
+  * Configurar o trânsito de gateway, a conectividade e o encadeamento de serviços.
+
+<strong> Configurar Gateway de VPN </strong> 
+  * Identificar recursos e casos de uso dos Gateways de VPN.
+  * Implementar cenários de alta disponibilidade.
+  * Configurar conexões VPN site a site usando um gateway de VPN.
+
+<strong> Configurar o ExpressRoute e a WAN Virtual </strong> 
+  * Identificar recursos e casos de uso do ExpressRoute.
+  * Coexistir redes site a site e redes do ExpressRoute.
+  * Identificar recursos e casos de uso da WAN Virtual.
+
+
+
 
 
 
