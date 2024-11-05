@@ -125,6 +125,24 @@
   * Implementar chaves gerenciadas pelo cliente.
   * Recomendar oportunidades para aprimorar a segurança de armazenamento.
 
+<strong> Configurar os Arquivos do Azure e a Sincronização de Arquivos do Azure </strong>
+  * Saber quando usar os Arquivos do Azure e os Blobs do Azure.
+  * Configurar compartilhamentos de arquivo e instantâneos de compartilhamento de arquivo no Azure.
+  * Identificar recursos e casos de uso da Sincronização de Arquivos do Azure.
+  * Identificar os componentes e as etapas de configuração da Sincronização de Arquivos.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
