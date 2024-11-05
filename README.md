@@ -131,6 +131,16 @@
   * Identificar recursos e casos de uso da Sincronização de Arquivos do Azure.
   * Identificar os componentes e as etapas de configuração da Sincronização de Arquivos.
 
+<strong> Configurar o armazenamento com ferramentas </strong> 
+  * Configurar e usar o Gerenciador de Armazenamento.
+  * Configurar o Serviço de Importação e Exportação.
+  * Configurar e usar o AzCopy.
+
+
+
+
+
+
 
 
 
