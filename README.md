@@ -168,6 +168,31 @@
   * Fazer Backup do Serviço de Aplicativo.
   * Configurar o Application Insights.
 
+<strong> Configurar Instâncias de Contêiner do Azure </strong>
+  * Identificar quando usar contêineres versus máquinas virtuais.
+  * Identificar os recursos e os casos de uso de Instâncias de Contêiner do Azure.
+  * Implementar Grupos de Contêineres do Azure.
+
+<strong> Configurar o Serviço de Kubernetes do Azure </strong> 
+  * Identificar os componentes do AKS, incluindo: pods, clusters e nós.
+  * Configurar conexões de rede para o AKS.
+  * Configurar opções de armazenamento para o AKS.
+  * Implantar opções de segurança para o AKS.
+  * Escalar o AKS, incluindo uma adição de Instâncias de Contêiner do Azure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
