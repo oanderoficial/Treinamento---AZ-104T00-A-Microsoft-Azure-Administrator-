@@ -142,6 +142,23 @@
   * Determinar o tamanho correto da máquina virtual.
   * Configurar o armazenamento da máquina virtual.
 
+<strong> Configurar disponibilidade da máquina virtual </strong> 
+  * Implementar conjuntos de disponibilidade e zonas de disponibilidade.
+  * Implementar domínios de falha e atualização.
+  * Implementar conjuntos de dimensionamento de máquinas virtuais.
+  * Dimensionar máquinas virtuais automaticamente.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
