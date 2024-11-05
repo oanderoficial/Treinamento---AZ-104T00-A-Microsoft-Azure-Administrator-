@@ -159,6 +159,23 @@
   * Escalar o Plano do Serviço de Aplicativo.
   * Escalar horizontalmente o Plano do Serviço de Aplicativo.
 
+<strong> Configurar os Serviços de Aplicativos do Azure </strong> 
+  * Identificar recursos e casos de uso para o Serviço de Aplicativo do Azure.
+  * Criar um Serviço de Aplicativo.
+  * Definir configurações de implantação, especificamente os slots de implantação.
+  * Proteger o Serviço de Aplicativo.
+  * Configurar nomes de domínio personalizado.
+  * Fazer Backup do Serviço de Aplicativo.
+  * Configurar o Application Insights.
+
+
+
+
+
+
+
+
+
 
 
 
