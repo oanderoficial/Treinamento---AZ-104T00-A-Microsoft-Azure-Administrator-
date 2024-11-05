@@ -89,6 +89,69 @@
   * Coexistir redes site a site e redes do ExpressRoute.
   * Identificar recursos e casos de uso da WAN Virtual.
 
+<strong> Configurar pontos de extremidade e roteamento de rede </strong> 
+  * Implementar rotas do sistema e rotas definidas pelo usuário.
+  * Configurar uma rota personalizada.
+  * Implementar pontos de extremidade de serviço.
+  * Identificar recursos e casos de uso para links privados e serviços de ponto de extremidade.
+
+<strong> Configurar o Azure Load Balancer /strong> 
+  * Identificar os recursos e os casos de uso do Azure Load Balancer.
+  * Implementar balanceadores de carga do Azure públicos e internos.
+  * Configurar SKUs, pools de back-end, persistência de sessão e investigações de integridade do balanceador de carga.
+
+<strong> Configurar o Gateway de Aplicativo do Azure </strong> 
+  * Identificar recursos e casos de uso do Gateway de Aplicativo do Azure.
+  * Implantar o Gateway de Aplicativo do Azure, incluindo a seleção de um método de roteamento.
+  * Configurar recursos de gateway, como regras de roteamento.
+
+<strong> Configurar contas de armazenamento </strong> 
+  * Identificar os recursos e os casos de uso das contas de armazenamento do Azure.
+  * Selecionar entre os diferentes tipos de armazenamento e contas de armazenamento.
+  * Selecionar uma estratégia de replicação de armazenamento.
+  * Configurar o acesso à rede das contas de armazenamento.
+  * Pontos de extremidade de armazenamento seguro.
+
+<strong> Configurar o Armazenamento de Blobs </strong> 
+  * Identificar recursos e casos de uso do Armazenamento de Blobs do Azure.
+  * Configurar o Armazenamento de Blobs e as camadas de acesso ao Blob.
+  * Configurar regras de gerenciamento do ciclo de vida de blobs.
+  * Configurar a replicação de objetos do Blob.
+  * Carregar e definir o preço do Armazenamento de Blobs.
+
+<strong> Configurar a segurança de armazenamento </strong> 
+  * Configurar assinaturas de acesso compartilhado, incluindo parâmetros de URI e SAS.
+  * Configurar a Criptografia do Serviço de Armazenamento.
+  * Implementar chaves gerenciadas pelo cliente.
+  * Recomendar oportunidades para aprimorar a segurança de armazenamento.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
