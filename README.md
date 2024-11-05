@@ -136,6 +136,22 @@
   * Configurar o Serviço de Importação e Exportação.
   * Configurar e usar o AzCopy.
 
+<strong> Configurar máquinas virtuais </strong> 
+  * Criar uma lista de verificação de planejamento de máquina virtual.
+  * Determinar as localizações e os modelos de preços de máquinas virtuais.
+  * Determinar o tamanho correto da máquina virtual.
+  * Configurar o armazenamento da máquina virtual.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
