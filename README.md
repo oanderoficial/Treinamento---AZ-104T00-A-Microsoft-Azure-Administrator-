@@ -186,6 +186,35 @@
   * Implantar o backup de arquivos e pastas locais.
   * Configurar o Agente dos Serviços de Recuperação do Microsoft Azure.
 
+<strong> Configurar backups da máquina virtual </strong> 
+  * Identificar recursos e casos de uso para diferentes métodos de backup do Azure.
+  * Configurar instantâneos de máquina virtual e opções de backup.
+  * Configurar instantâneos de máquina virtual e opções de backup.
+  * Comparar o agente de Backup do Azure (MARS) com o MABS (Servidor de Backup do Azure).
+  * Executar a recuperação site a site usando o Azure Site Recovery
+
+<strong> Configurar o Azure Monitor  </strong> 
+  * Configurar o Azure Monitor
+  * Configurar e interpretar as métricas e os logs.
+  * Identificar os componentes e os tipos de dados do Azure Monitor.
+  * Configurar o Log de Atividades.
+
+<strong> Configurar alertas do Azure </strong> 
+  * Configurar regras de alerta do Azure Monitor.
+  * Criar regras de alerta e grupos de ações.
+
+<strong> Configurar a análise de logs </strong> 
+  * Identificar os recursos e os casos de uso para o Log Analytics.
+  * Criar um espaço de trabalho do Log Analytics.
+  * Estruturar uma consulta do Log Analytics e examine os resultados.
+
+<strong> Configurar o Observador de Rede </strong> 
+  * Identificar os recursos e os casos de uso do Observador de Rede do Azure.
+  * Configurar funcionalidades de diagnóstico como Verificação de Fluxo de IP, próximo salto e topologia de rede.
+
+
+
+
 
 
 
